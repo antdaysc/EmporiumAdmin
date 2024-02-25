@@ -8,14 +8,7 @@ import "firebase/compat/database";
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyDFQNgt47KV_LMnKJGe2UA0qYQrJCOr4ro",
-  authDomain: "emporium-c8fc5.firebaseapp.com",
-  databaseURL: "https://emporium-c8fc5-default-rtdb.firebaseio.com",
-  projectId: "emporium-c8fc5",
-  storageBucket: "emporium-c8fc5.appspot.com",
-  messagingSenderId: "105787822368",
-  appId: "1:105787822368:web:1fe1e93031eae40b570745",
-  measurementId: "G-38BHTGCQDD",
+  // Al generar un proyecto/instancia en firebase aquí se pondrán las credenciales
 };
 
 // Initialize Firebase
